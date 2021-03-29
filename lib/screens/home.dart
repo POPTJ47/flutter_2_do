@@ -24,7 +24,7 @@ class _HomeState extends State<Home> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("Amateur Coder Todo"),
+        title: const Text("Flutter 2 Do"),
         centerTitle: true,
         actions: [
           IconButton(
